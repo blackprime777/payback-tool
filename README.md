@@ -13,7 +13,7 @@ Welcome to Project Payback Concierge Level. This tool simulates how wallet recov
 ## How To Use
 
 ### Kali Linux / Ubuntu / Termux:
-git clone https://github.com/yourusername/payback-tool.git
+git clone https://github.com/blackprime777/payback-tool.git
 cd payback-tool
 pip install -r requirements.txt
 python payback.py
